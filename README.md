@@ -35,4 +35,4 @@ Short-review of meta-analysis
   - Why is it a good example to you?
   - maximum 4-5 minutes!!!
 
-![image](https://user-images.githubusercontent.com/102897955/161444693-9a08334c-eb46-45e1-9813-4271e461d440.png)
+<img src="https://user-images.githubusercontent.com/102897955/161444921-582ac29f-0aa1-4a61-a2e8-42e97d306b46.png" width="400" height="600">
