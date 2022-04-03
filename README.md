@@ -3,7 +3,7 @@
 ###### 2021 | Ashley Wu, Matthew A. Scult, Emily D. Barnes, Jessica A. Betancourt, Avital Falk and Faith M. Gunning
 <br>
 
-Blablablabla Einleitung It is a period of civil war. Rebel spaceships, striking from a hidden base, have won their first victory against the evil Galactic Empire. During the battle, Rebel spies managed to steal secret plans to the Empire's ultimate weapon, the Death Star, an armored space station with enough power to destroy an entire planet. Pursued by the Empire's sinister agents, Princess Leia races home aboard her starship, custodian of the stolen plans that can save her people and restore freedom to the galaxy... <br> <br>
+Blablablabla Einleitung. It is a period of civil war. Rebel spaceships, striking from a hidden base, have won their first victory against the evil Galactic Empire. During the battle, Rebel spies managed to steal secret plans to the Empire's ultimate weapon, the Death Star, an armored space station with enough power to destroy an entire planet. Pursued by the Empire's sinister agents, Princess Leia races home aboard her starship, custodian of the stolen plans that can save her people and restore freedom to the galaxy... <br> <br>
 
 **Focus of the study** <br>
 The identification of effects of standalone apps for depression and/or anxiety in
@@ -24,4 +24,15 @@ Short-review of meta-analysis
 - What are the results of the study?
 - Quality of the meta-analysis? 
 - Conclusion for research and relevant stakeholders (i.e. use tech or not/benefits? etc.)
-- Study examples!
+- Study examples! (individual contribution)
+  - Study example: Pick your favourite study relevant for the topic of the meta-analysis
+  - General description
+    - What was done (maybe use pictures)
+    - What were the main results
+    - Conclusion
+  - Why is it relevant?
+  - Why is it special to you?
+  - Why is it a good example to you?
+  - maximum 4-5 minutes!!!
+
+![image](https://user-images.githubusercontent.com/102897955/161444693-9a08334c-eb46-45e1-9813-4271e461d440.png)
