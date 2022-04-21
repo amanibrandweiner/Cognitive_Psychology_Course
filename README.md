@@ -54,7 +54,7 @@ The participant recruitment was performed trough internet announcements, which c
 
 ### Study example 2 <br>
 ###### Jahreszahl | blablabla
-<br>
+
 #### What was done? <br>
 blablabla <br>
 
