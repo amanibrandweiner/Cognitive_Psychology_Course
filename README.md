@@ -41,6 +41,11 @@ Short-review of meta-analysis
 
 <img src="https://user-images.githubusercontent.com/102897955/161444921-582ac29f-0aa1-4a61-a2e8-42e97d306b46.png" width="400" height="600">
 
-Find the Meta Analysis [here.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7878769/) <br>
-Find the first Article [here.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8335612/) <br>
-Find the second Article [here.](https://www.youtube.com/watch?v=xvFZjo5PgG0) <br>
+[Quality of the meta-analysis](https://github.com/amanibrandweiner/Meta_Analysis_Quality/blob/main/README.md) <br>
+[Depressive disorders](https://www.msdmanuals.com/professional/psychiatric-disorders/mood-disorders/depressive-disorders) <br>
+[Anxiety disorders](https://www.msdmanuals.com/professional/psychiatric-disorders/anxiety-and-stressor-related-disorders/overview-of-anxiety-disorders) <br>
+
+<br>
+Find the meta-analysis [here.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7878769/) <br>
+Find the first article [here.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8335612/) <br>
+Find the second article [here.](https://www.youtube.com/watch?v=xvFZjo5PgG0) <br>
