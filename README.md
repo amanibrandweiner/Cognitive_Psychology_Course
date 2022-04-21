@@ -42,8 +42,7 @@ Short-review of meta-analysis
 The smarphone-based intervention MT-Phoenix (mentalis Phoenix) was tested in a randomized controlled pilot trial with 77 individuals with elevated depression scores (Patient Health Questionnaire-9 scores ≥5). This was designed to test the hypothesis if the program would both be responsive to patients and provide initial evidence of a reduction in depressive symptoms. Participants were either instructed to train for 14 days with MT-Phoenix or assigned to a waitlist as a control condition. Engagement with the intervention was measured through analyzing the usage data. <br>
 <br>
 
-![image](https://user-images.githubusercontent.com/102897955/164520278-96982175-a5ad-493c-b40d-572f537cd8d3.png)
-###### Fig. x: Dashboard of the used program mentalis Phoenix
+![image](https://user-images.githubusercontent.com/102897955/164520278-96982175-a5ad-493c-b40d-572f537cd8d3.png) ###### Fig. x: Dashboard of the used program mentalis Phoenix
 
 #### What were the main results? <br>
 The primary outcome was reduction in depressive symptom severity at post-assessment. Data from this pilot trial shows that participants in the intervention group used the smartphone-based intervention for 46% of all days (6.4/14) and reported a significantly greater reduction of depressive symptoms than did participants in the control condition (F1,74=19.34; P=.001), with a large effect size (d=1.02). Effects were sustained at a 3-month follow-up. <br>
