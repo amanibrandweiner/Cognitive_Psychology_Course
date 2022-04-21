@@ -38,6 +38,7 @@ Short-review of meta-analysis
 ### Study example 1 <br>
 ###### 2021 | Christian A. Lukas, Bjoern Eskofier and Matthias Berking
 <br>
+
 #### What was done? <br>
 The smarphone-based intervention MT-Phoenix (mentalis Phoenix) was tested in a randomized controlled pilot trial with 77 individuals with elevated depression scores (Patient Health Questionnaire-9 scores ≥5). This was designed to test the hypothesis if the program would both be responsive to patients and provide initial evidence of a reduction in depressive symptoms. Participants were either instructed to train for 14 days with MT-Phoenix or assigned to a waitlist as a control condition. Engagement with the intervention was measured through analyzing the usage data. <br>
 
