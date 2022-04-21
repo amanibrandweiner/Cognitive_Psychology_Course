@@ -39,10 +39,10 @@ Short-review of meta-analysis
 ###### 2021 | Christian A. Lukas, Bjoern Eskofier and Matthias Berking
 
 #### What was done? <br>
-The smarphone-based intervention MT-Phoenix (mentalis Phoenix) was tested in a randomized controlled pilot trial with 77 individuals with elevated depression scores (Patient Health Questionnaire-9 scores ≥5). This was designed to test the hypothesis if the program would both be responsive to patients and provide initial evidence of a reduction in depressive symptoms. Participants were either instructed to train for 14 days with MT-Phoenix or assigned to a waitlist as a control condition. Engagement with the intervention was measured through analyzing the usage data. <br>
+The smarphone-based intervention MT-Phoenix ([mentalis Phoenix](https://www.mentalis-health.com/programme/)) was tested in a randomized controlled pilot trial with 77 individuals with elevated depression scores ([Patient Health Questionnaire-9](https://psydix.org/psychologische-testverfahren/phq-9/) scores ≥5). This was designed to test the hypothesis if the program would both be responsive to patients and provide initial evidence of a reduction in depressive symptoms. Participants were either instructed to train for 14 days with MT-Phoenix or assigned to a waitlist as a control condition. Engagement with the intervention was measured through analyzing the usage data. <br>
 <br>
 
-![image](https://user-images.githubusercontent.com/102897955/164520278-96982175-a5ad-493c-b40d-572f537cd8d3.png) Fig. x: Dashboard of the used program mentalis Phoenix
+![image](https://user-images.githubusercontent.com/102897955/164520278-96982175-a5ad-493c-b40d-572f537cd8d3.png) Fig. x: Dashboard of the used program [mentalis Phoenix](https://www.mentalis-health.com/programme/)
 
 #### What were the main results? <br>
 The primary outcome was reduction in depressive symptom severity at post-assessment. Data from this pilot trial shows that participants in the intervention group used the smartphone-based intervention for 46% of all days (6.4/14) and reported a significantly greater reduction of depressive symptoms than did participants in the control condition (F1,74=19.34; P=.001), with a large effect size (d=1.02). Effects were sustained at a 3-month follow-up. <br>
@@ -51,7 +51,7 @@ The primary outcome was reduction in depressive symptom severity at post-assessm
 A gamified smartphone-based intervention combining CBT (cognitive-behavioral therapy) with AAMT (approach-avoidance bias modification training) may foster patient engagement and effectively target depressive symptoms. Future studies should evaluate the effectiveness of this intervention in a phase 3 trial using clinical samples. Moreover, the intervention should be compared to active control conditions. <br>
 
 #### Why is it a good example? <br>
-The participant recruitment was performed trough internet announcements, which causes a more inhomogeneous sample than most university research, which often samples only undergraduates. Furthermore, a professional patient questionnaire was used to filter people with high depression scores, which could lead to better results than just a self-made questionnaire about depressive symptoms. Also, not just a posttreatment assessment was conducted, but also a follow-up assessment, which leads to a higher credibility of the results. <br>
+The participant recruitment was performed trough internet announcements, which causes a more inhomogeneous sample than most university research, which often samples only undergraduates. Furthermore, a [professional patient questionnaire](https://psydix.org/psychologische-testverfahren/phq-9/) was used to filter people with high depression scores, which could lead to better results than just a self-made questionnaire about depressive symptoms. Also, not just a posttreatment assessment was conducted, but also a follow-up assessment, which leads to a higher credibility of the results. <br>
 <br>
 
 ### Study example 2
