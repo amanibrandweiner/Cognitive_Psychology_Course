@@ -41,5 +41,6 @@ Short-review of meta-analysis
 
 <img src="https://user-images.githubusercontent.com/102897955/161444921-582ac29f-0aa1-4a61-a2e8-42e97d306b46.png" width="400" height="600">
 
-Find the study here:
-https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7878769/
+Find the Meta Analysis [here.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7878769/)
+Find the first Article [here.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8335612/)
+Find the second Article [here.](https://www.youtube.com/watch?v=xvFZjo5PgG0)
