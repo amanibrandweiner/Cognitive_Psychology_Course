@@ -28,22 +28,31 @@ Short-review of meta-analysis
 - What are the results of the study?
 - Quality of the meta-analysis? 
 - Conclusion for research and relevant stakeholders (i.e. use tech or not/benefits? etc.)
-- Study examples! (individual contribution)
-  - Study example: Pick your favourite study relevant for the topic of the meta-analysis
-  - General description
-    - What was done (maybe use pictures)
-    - What were the main results
-    - Conclusion
-  - Why is it relevant?
-  - Why is it special to you?
-  - Why is it a good example to you?
-  - maximum 4-5 minutes!!!
 
 <img src="https://user-images.githubusercontent.com/102897955/161444921-582ac29f-0aa1-4a61-a2e8-42e97d306b46.png" width="400" height="600">
 
 [Quality of the meta-analysis](https://github.com/amanibrandweiner/Meta_Analysis_Quality/blob/main/README.md) <br>
 [Depressive disorders](https://www.msdmanuals.com/professional/psychiatric-disorders/mood-disorders/depressive-disorders) <br>
 [Anxiety disorders](https://www.msdmanuals.com/professional/psychiatric-disorders/anxiety-and-stressor-related-disorders/overview-of-anxiety-disorders) <br>
+
+### Study example 1 <br>
+###### 2021 | Christian A. Lukas, Bjoern Eskofier and Matthias Berking <br>
+#### What was done? <br>
+The smarphone-based intervention MT-Phoenix (mentalis Phoenix) was tested in a randomized controlled pilot trial with 77 individuals with elevated depression scores (Patient Health Questionnaire-9 scores ≥5). This was designed to test the hypothesis if the program would both be responsive to patients and provide initial evidence of a reduction in depressive symptoms. Participants were either instructed to train for 14 days with MT-Phoenix or assigned to a waitlist as a control condition. Engagement with the intervention was measured through analyzing the usage data. <br>
+
+#### What were the main results? <br>
+The primary outcome was reduction in depressive symptom severity at post-assessment. Data from this pilot trial shows that participants in the intervention group used the smartphone-based intervention for 46% of all days (6.4/14) and reported a significantly greater reduction of depressive symptoms than did participants in the control condition (F1,74=19.34; P=.001), with a large effect size (d=1.02). Effects were sustained at a 3-month follow-up. <br>
+
+#### Why is it relevant? <br>
+A gamified smartphone-based intervention combining CBT (cognitive-behavioral therapy) with AAMT (approach-avoidance bias modification training) may foster patient engagement and effectively target depressive symptoms. Future studies should evaluate the effectiveness of this intervention in a phase 3 trial using clinical samples. Moreover, the intervention should be compared to active control conditions. <br>
+
+#### Why is it a good example? <br>
+The participant recruitment was performed trough internet announcements, which causes a more inhomogeneous sample than most university research, which often samples only undergraduates. Furthermore, a professional patient questionnaire was used to filter people with high depression scores, which could lead to better results than just a self-made questionnaire about depressive symptoms. Also, not just a posttreatment assessment was conducted, but also a follow-up assessment, which leads to a higher credibility of the results. <br>
+
+
+### Study example 2 <br>
+###### Jahreszahl | blablabla
+
 
 <br>
 Find the meta-analysis [here.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7878769/) <br>
