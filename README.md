@@ -49,10 +49,10 @@ A gamified smartphone-based intervention combining CBT (cognitive-behavioral the
 
 #### Why is it a good example? <br>
 The participant recruitment was performed trough internet announcements, which causes a more inhomogeneous sample than most university research, which often samples only undergraduates. Furthermore, a professional patient questionnaire was used to filter people with high depression scores, which could lead to better results than just a self-made questionnaire about depressive symptoms. Also, not just a posttreatment assessment was conducted, but also a follow-up assessment, which leads to a higher credibility of the results. <br>
+<br>
 
-
-### Study example 2 <br>
-###### Jahreszahl | blablabla
+### Study example 2
+###### Jahreszahl | Autore1, Autor2, ...
 
 #### What was done? <br>
 blablabla <br>
