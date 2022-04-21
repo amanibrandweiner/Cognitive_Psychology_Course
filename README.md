@@ -35,7 +35,7 @@ Short-review of meta-analysis
 [Depressive disorders](https://www.msdmanuals.com/professional/psychiatric-disorders/mood-disorders/depressive-disorders) <br>
 [Anxiety disorders](https://www.msdmanuals.com/professional/psychiatric-disorders/anxiety-and-stressor-related-disorders/overview-of-anxiety-disorders) <br>
 
-### Study example 1 <br>
+### Study example 1
 ###### 2021 | Christian A. Lukas, Bjoern Eskofier and Matthias Berking
 
 #### What was done? <br>
