@@ -39,8 +39,9 @@ Short-review of meta-analysis
 ###### 2021 | Christian A. Lukas, Bjoern Eskofier and Matthias Berking
 
 #### What was done? <br>
-The smarphone-based intervention MT-Phoenix (mentalis Phoenix) was tested in a randomized controlled pilot trial with 77 individuals with elevated depression scores (Patient Health Questionnaire-9 scores ≥5). This was designed to test the hypothesis if the program would both be responsive to patients and provide initial evidence of a reduction in depressive symptoms. Participants were either instructed to train for 14 days with MT-Phoenix or assigned to a waitlist as a control condition. Engagement with the intervention was measured through analyzing the usage data.
+The smarphone-based intervention MT-Phoenix (mentalis Phoenix) was tested in a randomized controlled pilot trial with 77 individuals with elevated depression scores (Patient Health Questionnaire-9 scores ≥5). This was designed to test the hypothesis if the program would both be responsive to patients and provide initial evidence of a reduction in depressive symptoms. Participants were either instructed to train for 14 days with MT-Phoenix or assigned to a waitlist as a control condition. Engagement with the intervention was measured through analyzing the usage data. <br>
 <br>
+
 ![image](https://user-images.githubusercontent.com/102897955/164520278-96982175-a5ad-493c-b40d-572f537cd8d3.png)
 ###### Fig. x: Dashboard of the used program mentalis Phoenix
 
@@ -70,10 +71,7 @@ blablabla <br>
 blablabla <br>
 
 
-<br>
-Find the meta-analysis [here.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7878769/)
-<br>
-Find the first article [here.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8335612/)
-<br>
-Find the second article [here.](https://www.youtube.com/watch?v=xvFZjo5PgG0)
-<br>
+<br> <br>
+Find the meta-analysis [here.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7878769/) <br>
+Find the first article [here.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8335612/) <br>
+Find the second article [here.](https://www.youtube.com/watch?v=xvFZjo5PgG0) <br>
