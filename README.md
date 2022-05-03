@@ -10,17 +10,16 @@
 Blablablabla Einleitung. It is a period of civil war. Rebel spaceships, striking from a hidden base, have won their first victory against the evil Galactic Empire. During the battle, Rebel spies managed to steal secret plans to the Empire's ultimate weapon, the Death Star, an armored space station with enough power to destroy an entire planet. Pursued by the Empire's sinister agents, Princess Leia races home aboard her starship, custodian of the stolen plans that can save her people and restore freedom to the galaxy... <br> <br>
 
 **Focus of the study** <br>
-The identification of effects of standalone apps for depression and/or anxiety in
-symptomatic participant as well as the engagement. <br> <br>
+Research has shown that digital mental health apps can be efficacious in reducing symptoms of depression and anxiety. Here, the relationship between engagement features of the app and its clinical efficacy was examined. <br> <br>
 
 **Target group** <br>
-asdf <br> <br>
+People with symptoms of depression and anxiety <br> <br>
 
 **Average effect size** <br>
-Small to medium significant effect (*g* = 0.29) of smartphone apps treating symptoms of depression and anxiety, larger significant effect on attitude (*β* = 0.05), negative association between PSD features and engagement (*β* = −0.03). <br> <br>
+Smartphone apps were efficacious in treating symptoms of anxiety and depression in randomized controlled trials, with overall small-to-medium effects. Apps that employed a greater number of engagement features as compared to the control condition had larger effect sizes (g = 0.29). <br> <br>
 
 **Additional remarks/results** <br>
-asdfsadf <br> <br>
+There was an unexpected negative association between PSD features and engagement, as measured by completion rate. <br> <br>
 
 Short-review of meta-analysis
 - Introduction (= basic theoretical background)
@@ -45,7 +44,7 @@ The smarphone-based intervention MT-Phoenix ([mentalis Phoenix](https://www.ment
 ![image](https://user-images.githubusercontent.com/102897955/164520278-96982175-a5ad-493c-b40d-572f537cd8d3.png) Fig. x: Dashboard of the used program [mentalis Phoenix](https://www.mentalis-health.com/programme/)
 
 #### What were the main results? <br>
-The primary outcome was reduction in depressive symptom severity at post-assessment. Data from this pilot trial shows that participants in the intervention group used the smartphone-based intervention for 46% of all days (6.4/14) and reported a significantly greater reduction of depressive symptoms than did participants in the control condition (F1,74=19.34; P=.001), with a large effect size (d=1.02). Effects were sustained at a 3-month follow-up. <br>
+The primary outcome was reduction in depressive symptom severity at post-assessment. Data from this pilot trial shows that participants in the intervention group used the smartphone-based intervention for 46% of all days (6.4/14) and reported a significantly greater reduction of depressive symptoms than did participants in the control condition (F1,74=19.34; p=.001), with a large effect size (d=1.02). Effects were sustained at a 3-month follow-up. <br>
 
 #### Why is it relevant? <br>
 A gamified smartphone-based intervention combining CBT (cognitive-behavioral therapy) with AAMT (approach-avoidance bias modification training) may foster patient engagement and effectively target depressive symptoms. Future studies should evaluate the effectiveness of this intervention in a phase 3 trial using clinical samples. Moreover, the intervention should be compared to active control conditions. <br>
@@ -55,7 +54,7 @@ The participant recruitment was performed trough internet announcements, which c
 <br>
 
 ### Study example 2
-###### Jahreszahl | Autore1, Autor2, ...
+###### Jahreszahl | Autor1, Autor2, ...
 
 #### What was done? <br>
 blablabla <br>
@@ -71,6 +70,6 @@ blablabla <br>
 
 
 <br> <br>
-Find the meta-analysis [here.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7878769/) <br>
-Find the first article [here.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8335612/) <br>
-Find the second article [here.](https://www.youtube.com/watch?v=xvFZjo5PgG0) <br>
+Find the meta-analysis of Wu et al., 2021 [here.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7878769/) <br>
+Find the study example of Lukas et al., 2021 [here.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8335612/) <br>
+Find the study example of [here.](https://www.youtube.com/watch?v=xvFZjo5PgG0) <br>
