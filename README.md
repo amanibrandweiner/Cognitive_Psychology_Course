@@ -1,9 +1,3 @@
-![image](https://user-images.githubusercontent.com/102897955/166958325-86126dfc-83c8-464d-be73-f744e5b68332.png)
-
-![image](https://user-images.githubusercontent.com/102897955/166958388-6e38ab88-0219-4e03-9b09-574ce17641e8.png)
-
-
-
 
 <img src="https://user-images.githubusercontent.com/102897955/161445546-c87ba866-4d19-45b6-838a-7a3e83556826.PNG">
 <img src="https://user-images.githubusercontent.com/102897955/161445754-8a0f5bb1-fb93-4953-84da-dfde02e3867e.png">
@@ -57,7 +51,7 @@ Short-review of meta-analysis
 The smarphone-based intervention MT-Phoenix ([mentalis Phoenix](https://www.mentalis-health.com/programme/)) was tested in a randomized controlled pilot trial with 77 individuals with elevated depression scores ([Patient Health Questionnaire-9](https://psydix.org/psychologische-testverfahren/phq-9/) scores ≥5). This was designed to test the hypothesis if the program would both be responsive to patients and provide initial evidence of a reduction in depressive symptoms. Participants were either instructed to train for 14 days with MT-Phoenix or assigned to a waitlist as a control condition. Engagement with the intervention was measured through analyzing the usage data. <br>
 <br>
 
-![image](https://user-images.githubusercontent.com/102897955/164520278-96982175-a5ad-493c-b40d-572f537cd8d3.png) Fig. x: Dashboard of the used program [mentalis Phoenix](https://www.mentalis-health.com/programme/)
+![image](https://user-images.githubusercontent.com/102897955/164520278-96982175-a5ad-493c-b40d-572f537cd8d3.png) <br> Fig. x: Dashboard of the used program [mentalis Phoenix](https://www.mentalis-health.com/programme/)
 
 #### What were the main results? <br>
 The primary outcome was reduction in depressive symptom severity at post-assessment. Data from this pilot trial shows that participants in the intervention group used the smartphone-based intervention for 46% of all days (6.4/14) and reported a significantly greater reduction of depressive symptoms than did participants in the control condition (F1,74=19.34; p=.001), with a large effect size (d=1.02). Effects were sustained at a 3-month follow-up. <br>
@@ -118,6 +112,11 @@ Wu, A., Scult, M. A., Barnes, E. D., Betancourt, J. A., Falk, A. & Gunning, F. M
 <br>
 
 ### Links
-Find the meta-analysis of Wu et al., 2021 [here.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7878769/) <br>
-Find the study example of Lukas et al., 2021 [here.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8335612/) <br>
-Find the study example of [here.](https://www.youtube.com/watch?v=xvFZjo5PgG0) <br>
+Find the meta-analysis of Wu et al., 2021 [here.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7878769/)
+<br> <br>
+Find the study example of Lukas et al., 2021 [here.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8335612/)
+<br> <br>
+Find the study example of [here.](https://www.youtube.com/watch?v=xvFZjo5PgG0)
+<br>
+<br>
+<br>
