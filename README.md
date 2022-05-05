@@ -77,16 +77,16 @@ Find the study example of [here.](https://www.youtube.com/watch?v=xvFZjo5PgG0) <
 
 ### References
 
-Barnhill, J. W. (2022, 18. April). Overview of Anxiety Disorders. MSD Manual Professional Edition. Abgerufen am 5. Mai 2022, von https://www.msdmanuals.com/professional/psychiatric-disorders/anxiety-and-stressor-related-disorders/overview-of-anxiety-disorders
+Barnhill, J. W. (2022, 18. April). Overview of Anxiety Disorders. MSD Manual Professional Edition. Retrieved May 5, 2022, from https://www.msdmanuals.com/professional/psychiatric-disorders/anxiety-and-stressor-related-disorders/overview-of-anxiety-disorders
 
-Coryell, W. (2022, 18. April). Depressive Disorders. MSD Manual Professional Edition. Abgerufen am 5. Mai 2022, von https://www.msdmanuals.com/professional/psychiatric-disorders/mood-disorders/depressive-disorders
+Coryell, W. (2022, 18. April). Depressive Disorders. MSD Manual Professional Edition. Retrieved May 5, 2022, from https://www.msdmanuals.com/professional/psychiatric-disorders/mood-disorders/depressive-disorders
 
 Lukas, C. A., Eskofier, B. & Berking, M. (2021). A Gamified Smartphone-Based Intervention for Depression: Randomized Controlled Pilot Trial. JMIR Mental Health, 8(7), e16643. https://doi.org/10.2196/16643
 
-Mentalis GmbH. (2022, 25. April). Mentalis. mentalis. Abgerufen am 5. Mai 2022, von https://www.mentalis-health.com/programme/
+Mentalis GmbH. (2022, 25. April). Mentalis. mentalis. Retrieved May 5, 2022, from https://www.mentalis-health.com/programme/
 
-Rick Roll (Different link + no ads). (2020, 28. Juli). YouTube. Abgerufen am 5. Mai 2022, von https://www.youtube.com/watch?v=xvFZjo5PgG0
+Rick Roll (Different link + no ads). (2020, 28. Juli). YouTube. Retrieved May 5, 2022, from https://www.youtube.com/watch?v=xvFZjo5PgG0
 
-Spitzer, R. L., Williams, J. B. W. & Kroenke, K. (2022). PHQ-9 - Patient Health Questionnaire - Gesundheitsfragebogen für Patienten. psydix.org. Abgerufen am 5. Mai 2022, von https://psydix.org/psychologische-testverfahren/phq-9/
+Spitzer, R. L., Williams, J. B. W. & Kroenke, K. (2022). PHQ-9 - Patient Health Questionnaire - Gesundheitsfragebogen für Patienten. psydix.org. Retrieved May 5, 2022, from https://psydix.org/psychologische-testverfahren/phq-9/
 
 Wu, A., Scult, M. A., Barnes, E. D., Betancourt, J. A., Falk, A. & Gunning, F. M. (2021). Smartphone apps for depression and anxiety: a systematic review and meta-analysis of techniques to increase engagement. npj Digital Medicine, 4(1). https://doi.org/10.1038/s41746-021-00386-8
