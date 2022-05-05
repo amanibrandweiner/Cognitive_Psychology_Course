@@ -85,6 +85,8 @@ Lukas, C. A., Eskofier, B. & Berking, M. (2021). A Gamified Smartphone-Based Int
 
 Mentalis GmbH. (2022, 25. April). Mentalis. mentalis. Abgerufen am 5. Mai 2022, von https://www.mentalis-health.com/programme/
 
+Rick Roll (Different link + no ads). (2020, 28. Juli). YouTube. Abgerufen am 5. Mai 2022, von https://www.youtube.com/watch?v=xvFZjo5PgG0
+
 Spitzer, R. L., Williams, J. B. W. & Kroenke, K. (2022). PHQ-9 - Patient Health Questionnaire - Gesundheitsfragebogen für Patienten. psydix.org. Abgerufen am 5. Mai 2022, von https://psydix.org/psychologische-testverfahren/phq-9/
 
 Wu, A., Scult, M. A., Barnes, E. D., Betancourt, J. A., Falk, A. & Gunning, F. M. (2021). Smartphone apps for depression and anxiety: a systematic review and meta-analysis of techniques to increase engagement. npj Digital Medicine, 4(1). https://doi.org/10.1038/s41746-021-00386-8
