@@ -1,3 +1,10 @@
+![image](https://user-images.githubusercontent.com/102897955/166958325-86126dfc-83c8-464d-be73-f744e5b68332.png)
+
+![image](https://user-images.githubusercontent.com/102897955/166958388-6e38ab88-0219-4e03-9b09-574ce17641e8.png)
+
+
+
+
 <img src="https://user-images.githubusercontent.com/102897955/161445546-c87ba866-4d19-45b6-838a-7a3e83556826.PNG">
 <img src="https://user-images.githubusercontent.com/102897955/161445754-8a0f5bb1-fb93-4953-84da-dfde02e3867e.png">
 <img src="https://user-images.githubusercontent.com/102897955/161445757-7595ec48-8e96-4e85-89d4-37a2f88f0e3d.png">
@@ -32,6 +39,10 @@ Short-review of meta-analysis
 [Depressive disorders](https://www.msdmanuals.com/professional/psychiatric-disorders/mood-disorders/depressive-disorders) <br>
 [Anxiety disorders](https://www.msdmanuals.com/professional/psychiatric-disorders/anxiety-and-stressor-related-disorders/overview-of-anxiety-disorders) <br>
 
+<br>
+![image](https://user-images.githubusercontent.com/102897955/166958388-6e38ab88-0219-4e03-9b09-574ce17641e8.png)
+<br>
+
 ### Study example 1
 ###### 2021 | Christian A. Lukas, Bjoern Eskofier and Matthias Berking
 
@@ -51,6 +62,10 @@ A gamified smartphone-based intervention combining CBT (cognitive-behavioral the
 The participant recruitment was performed trough internet announcements, which causes a more inhomogeneous sample than most university research, which often samples only undergraduates. Furthermore, a [professional patient questionnaire](https://psydix.org/psychologische-testverfahren/phq-9/) was used to filter people with high depression scores, which could lead to better results than just a self-made questionnaire about depressive symptoms. Also, not just a posttreatment assessment was conducted, but also a follow-up assessment, which leads to a higher credibility of the results. <br>
 <br>
 
+<br>
+![image](https://user-images.githubusercontent.com/102897955/166958388-6e38ab88-0219-4e03-9b09-574ce17641e8.png)
+<br>
+
 ### Study example 2
 ###### Jahreszahl | Autor1, Autor2, ...
 
@@ -67,10 +82,18 @@ blablabla <br>
 blablabla <br>
 <br> <br>
 
+<br>
+![image](https://user-images.githubusercontent.com/102897955/166958388-6e38ab88-0219-4e03-9b09-574ce17641e8.png)
+<br>
+
 ### Links
 Find the meta-analysis of Wu et al., 2021 [here.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7878769/) <br>
 Find the study example of Lukas et al., 2021 [here.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8335612/) <br>
 Find the study example of [here.](https://www.youtube.com/watch?v=xvFZjo5PgG0) <br>
+<br>
+
+<br>
+![image](https://user-images.githubusercontent.com/102897955/166958388-6e38ab88-0219-4e03-9b09-574ce17641e8.png)
 <br>
 
 ### References
