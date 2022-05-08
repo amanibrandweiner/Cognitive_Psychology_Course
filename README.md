@@ -92,6 +92,8 @@ Barnhill, J. W. (2022, 18. April). Overview of Anxiety Disorders. MSD Manual Pro
 
 Coryell, W. (2022, 18. April). Depressive Disorders. MSD Manual Professional Edition. Retrieved May 5, 2022, from https://www.msdmanuals.com/professional/psychiatric-disorders/mood-disorders/depressive-disorders
 
+Knippschild, S., Baulig, C. & Krummenauer, F. (2015). Heterogenität in Meta-Analysen – kein Vergleich von Äpfeln und Birnen erlaubt.... Deutscher Ärzte-Verlag, 31(3), 224–229.
+
 Lukas, C. A., Eskofier, B. & Berking, M. (2021). A Gamified Smartphone-Based Intervention for Depression: Randomized Controlled Pilot Trial. JMIR Mental Health, 8(7), e16643. https://doi.org/10.2196/16643
 
 Mentalis GmbH. (2022, 25. April). Mentalis. mentalis. Retrieved May 5, 2022, from https://www.mentalis-health.com/programme/
@@ -99,6 +101,8 @@ Mentalis GmbH. (2022, 25. April). Mentalis. mentalis. Retrieved May 5, 2022, fro
 Rick Roll (Different link + no ads). (2020, 28. Juli). YouTube. Retrieved May 5, 2022, from https://www.youtube.com/watch?v=xvFZjo5PgG0
 
 Spitzer, R. L., Williams, J. B. W. & Kroenke, K. (2022). PHQ-9 - Patient Health Questionnaire - Gesundheitsfragebogen für Patienten. psydix.org. Retrieved May 5, 2022, from https://psydix.org/psychologische-testverfahren/phq-9/
+
+Weckmann, G., Chenot, J.-F. & Reber, K. C. (2015). Metaanalysen lesen und interpretieren: Eine praktische Anleitung. Deutscher Ärzte-Verlag, 91(11), 469–473. https://doi.org/10.3238/zfa.2015.0469–0473
 
 Wu, A., Scult, M. A., Barnes, E. D., Betancourt, J. A., Falk, A. & Gunning, F. M. (2021). Smartphone apps for depression and anxiety: a systematic review and meta-analysis of techniques to increase engagement. npj Digital Medicine, 4(1). https://doi.org/10.1038/s41746-021-00386-8
 
