@@ -98,6 +98,8 @@ Lukas, C. A., Eskofier, B. & Berking, M. (2021). A Gamified Smartphone-Based Int
 
 Mentalis GmbH. (2022, 25. April). Mentalis. mentalis. Retrieved May 5, 2022, from https://www.mentalis-health.com/programme/
 
+Online Systematic Review Software | Meta-Analysis Software. (2022). STAT 59. Retrieved May 8, 2022, from https://www.stat59.com/about/meta-analysis-software
+
 Rick Roll (Different link + no ads). (2020, 28. Juli). YouTube. Retrieved May 5, 2022, from https://www.youtube.com/watch?v=xvFZjo5PgG0
 
 Spitzer, R. L., Williams, J. B. W. & Kroenke, K. (2022). PHQ-9 - Patient Health Questionnaire - Gesundheitsfragebogen für Patienten. psydix.org. Retrieved May 5, 2022, from https://psydix.org/psychologische-testverfahren/phq-9/
@@ -118,6 +120,8 @@ Find the meta-analysis of Wu et al., 2021 [here.](https://www.ncbi.nlm.nih.gov/p
 Find the study example of Lukas et al., 2021 [here.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8335612/)
 <br> <br>
 Find the study example of [here.](https://www.youtube.com/watch?v=xvFZjo5PgG0)
+<br> <br>
+Find supplementary information of the meta-analysis of Wu et al., 2021 [here.](https://static-content.springer.com/esm/art%3A10.1038%2Fs41746-021-00386-8/MediaObjects/41746_2021_386_MOESM1_ESM.pdf)
 <br>
 <br>
 <br>
