@@ -7,6 +7,26 @@
 
 Blablablabla Einleitung. It is a period of civil war. Rebel spaceships, striking from a hidden base, have won their first victory against the evil Galactic Empire. During the battle, Rebel spies managed to steal secret plans to the Empire's ultimate weapon, the Death Star, an armored space station with enough power to destroy an entire planet. Pursued by the Empire's sinister agents, Princess Leia races home aboard her starship, custodian of the stolen plans that can save her people and restore freedom to the galaxy... <br> <br>
 
+<br>
+
+| **Meta analysis at a glance** |
+| ----------- |
+| Hard Facts:|
+| **Focus of the study** |
+| Research has shown that digital mental health apps can be efficacious in reducing symptoms of depression and anxiety. Here, the relationship between engagement features of the app and its clinical efficacy was examined.|
+| **Target group** |
+| People with symptoms of depression and anxiety. Maybe also somehow therapists and/or the government as it can help reduce depression/anxiety, it can also have effects on the work of the therapists |
+| **Relevant Stakeholders** |
+| blablabla Stakeholders |
+| **Average effect size** |
+| Smartphone apps were efficacious in treating symptoms of anxiety and depression in randomized controlled trials, with overall small-to-medium effects (g = 0.2888). Apps that employed a greater number of engagement features as compared to the control condition had larger effect sizes (β = 0.0450). | 
+| **Additional remarks/results** |
+| There was annexpected negative association between PSD features and engagement, as measured by completion rate (β = −0.0293). |
+
+
+<br>
+
+
 ### Meta analysis at a glance
 | | |
 | ----------- | ----------- |
@@ -122,6 +142,7 @@ Find the study example of Lukas et al., 2021 [here.](https://www.ncbi.nlm.nih.go
 Find the study example of [here.](https://www.youtube.com/watch?v=xvFZjo5PgG0)
 <br> <br>
 Find supplementary information of the meta-analysis of Wu et al., 2021 [here.](https://static-content.springer.com/esm/art%3A10.1038%2Fs41746-021-00386-8/MediaObjects/41746_2021_386_MOESM1_ESM.pdf)
-<br>
-<br>
+<br> <br>
+Find a cool YouTube Video [here.](https://www.youtube.com/watch?v=xvFZjo5PgG0)
+<br> <br>
 <br>
