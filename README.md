@@ -102,7 +102,7 @@ For people suffering from symptoms of depression and anxiety, it is also good to
 The smarphone-based intervention MT-Phoenix ([mentalis Phoenix](https://www.mentalis-health.com/programme/)) was tested in a randomized controlled pilot trial with 77 individuals with elevated depression scores ([Patient Health Questionnaire-9](https://psydix.org/psychologische-testverfahren/phq-9/) scores ≥5). This was designed to test the hypothesis if the program would both be responsive to patients and provide initial evidence of a reduction in depressive symptoms. Participants were either instructed to train for 14 days with MT-Phoenix or assigned to a waitlist as a control condition. Engagement with the intervention was measured through analyzing the usage data. <br>
 <br>
 
-![image](https://user-images.githubusercontent.com/102897955/164520278-96982175-a5ad-493c-b40d-572f537cd8d3.png) <br> Fig. x: Dashboard of the used program [mentalis Phoenix](https://www.mentalis-health.com/programme/)
+![image](https://user-images.githubusercontent.com/102897955/164520278-96982175-a5ad-493c-b40d-572f537cd8d3.png) <br> Fig. 1: Dashboard of the used program [mentalis Phoenix](https://www.mentalis-health.com/programme/)
 
 #### What were the main results? <br>
 The primary outcome was reduction in depressive symptom severity at post-assessment. Data from this pilot trial shows that participants in the intervention group used the smartphone-based intervention for 46% of all days (6.4/14) and reported a significantly greater reduction of depressive symptoms than did participants in the control condition, with a large effect size. Effects were sustained at a 3-month follow-up. <br>
@@ -127,7 +127,7 @@ The participant recruitment was performed trough internet announcements, which c
 During the 4 week intervention, the participants were able to completely decide for themselves how, when, and how much they wanted to use the app. In the app, people could choose from various activities such as mood or health tracking, meditation, journaling their thoughts and challenging themselves to reach goals. <br>
 <br>
 
-![image](https://user-images.githubusercontent.com/102897955/167408010-0e6b675a-5e22-46d7-9a81-b0f755db23b0.png) <br> Fig. x: Dashboard of the used program 
+![image](https://user-images.githubusercontent.com/102897955/167408010-0e6b675a-5e22-46d7-9a81-b0f755db23b0.png) <br> Fig. 2: Dashboard of the used program 
 
 
 #### What were the main results? <br>
