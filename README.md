@@ -41,15 +41,15 @@ PSD originally comes from the field of human-computer interaction and is a model
 	- Reduction (dividing complex behavior into small and simple tasks)
 	- Self-monitoring (such as tracking behavior, performance, etc.) 
 	- Personalization (of the app itself)
-2. Dialogue support: 
+2. Dialogue support, such as
 	- Suggestion (from the app)
 	- Reminders (for interventions)
 	- Rewards (for a specific target behavior)
-3. Social support: 
+3. Social support, such as
 	- Social facilitation (showing the user, that other persons do the same)
 	- Social learning (showing the user, how other persons perform with behavior)
 	- Social comparison (of the target behavior)
-4. Credibility: 
+4. Credibility, such as
 	- Surface credibility (app design)
 	- Expertise (of the app)
 	- Trustworthiness (informations used in the app)
