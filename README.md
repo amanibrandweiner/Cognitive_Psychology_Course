@@ -25,7 +25,6 @@ Especially in the current times, the number of people affected by [depressive](h
 
 <br>
 
-
 ![166958388-6e38ab88-0219-4e03-9b09-574ce17641e8](https://user-images.githubusercontent.com/102897955/166960848-1c5f8a11-38ae-4f0c-8465-4f8afb59c6ef.png)
 
 <br>
@@ -90,11 +89,9 @@ The credibility of this article is difficult to assess. Admittedly, the assumpti
 As a conclusion for psychological researchers, therapists, the government as well as the software developers it can be said that standalone mental health apps can help with depression and anxiety especially if the user engagement is increased by different features and methods. For the future, it would be beneficial if mental health apps apply a variety of features, for example from the field of persuasive system design, to keep user engagement high and thus achieve better clinical effects. This would ease the workload on therapists, allow the government to provide the necessary range of (financial) support, and give affected individuals more opportunities to improve their mental health. <br>
 For people suffering from symptoms of depression and anxiety, it is also good to know that standalone mental health apps can have positive effects on symptom reduction, especially if they use some of the techniques described above, such as personalization, reduction or self-monitoring. When choosing apps to help with mental health problems, sufferers can therefore make sure that such features are integrated into the apps. <br>
 
-<img src="https://user-images.githubusercontent.com/102897955/161444921-582ac29f-0aa1-4a61-a2e8-42e97d306b46.png" width="400" height="600">
+<br>
 
-[Depressive disorders](https://www.msdmanuals.com/professional/psychiatric-disorders/mood-disorders/depressive-disorders) <br>
-[Anxiety disorders](https://www.msdmanuals.com/professional/psychiatric-disorders/anxiety-and-stressor-related-disorders/overview-of-anxiety-disorders)
-
+![166958388-6e38ab88-0219-4e03-9b09-574ce17641e8](https://user-images.githubusercontent.com/102897955/166960848-1c5f8a11-38ae-4f0c-8465-4f8afb59c6ef.png)
 
 <br>
 
@@ -108,7 +105,7 @@ The smarphone-based intervention MT-Phoenix ([mentalis Phoenix](https://www.ment
 ![image](https://user-images.githubusercontent.com/102897955/164520278-96982175-a5ad-493c-b40d-572f537cd8d3.png) <br> Fig. x: Dashboard of the used program [mentalis Phoenix](https://www.mentalis-health.com/programme/)
 
 #### What were the main results? <br>
-The primary outcome was reduction in depressive symptom severity at post-assessment. Data from this pilot trial shows that participants in the intervention group used the smartphone-based intervention for 46% of all days (6.4/14) and reported a significantly greater reduction of depressive symptoms than did participants in the control condition (F1,74=19.34; p=.001), with a large effect size (d=1.02). Effects were sustained at a 3-month follow-up. <br>
+The primary outcome was reduction in depressive symptom severity at post-assessment. Data from this pilot trial shows that participants in the intervention group used the smartphone-based intervention for 46% of all days (6.4/14) and reported a significantly greater reduction of depressive symptoms than did participants in the control condition, with a large effect size. Effects were sustained at a 3-month follow-up. <br>
 
 #### Why is it relevant? <br>
 A gamified smartphone-based intervention combining CBT (cognitive-behavioral therapy) with AAMT (approach-avoidance bias modification training) may foster patient engagement and effectively target depressive symptoms. Future studies should evaluate the effectiveness of this intervention in a phase 3 trial using clinical samples. Moreover, the intervention should be compared to active control conditions. <br>
