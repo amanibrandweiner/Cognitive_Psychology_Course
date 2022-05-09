@@ -17,26 +17,14 @@ Blablablabla Einleitung. It is a period of civil war. Rebel spaceships, striking
 | **Target group** |
 | People with symptoms of depression and anxiety. Maybe also somehow therapists and/or the government as it can help reduce depression/anxiety, it can also have effects on the work of the therapists |
 | **Relevant Stakeholders** |
-| blablabla Stakeholders |
+| Mainly psychological researchers, psychological therapists, psychiatrists and software developers, but indirectly also the government. |
 | **Average effect size** |
 | Smartphone apps were efficacious in treating symptoms of anxiety and depression in randomized controlled trials, with overall small-to-medium effects (g = 0.2888). Apps that employed a greater number of engagement features as compared to the control condition had larger effect sizes (β = 0.0450). | 
 | **Additional remarks/results** |
 | There was annexpected negative association between PSD features and engagement, as measured by completion rate (β = −0.0293). |
 
-
 <br>
 
-
-### Meta analysis at a glance
-| | |
-| ----------- | ----------- |
-| | |
-| **Focus of the study** | **Target group** |
-| Research has shown that digital mental health apps can be efficacious in reducing symptoms of depression and anxiety. Here, the relationship between engagement features of the app and its clinical efficacy was examined.| People with symptoms of depression and anxiety. Maybe also somehow therapists and/or the government as it can help reduce depression/anxiety, it can also have effects on the work of the therapists |
-| **Average effect size** | **Additional remarks/results** |
-| Smartphone apps were efficacious in treating symptoms of anxiety and depression in randomized controlled trials, with overall small-to-medium effects (g = 0.2888, SE = 0.0999, z(15) = 2.89, p = 0.0119, Q(df = 14) = 41.93, p < 0.0001, I2 = 66.6%). Apps that employed a greater number of engagement features as compared to the control condition had larger effect sizes (β = 0.0450, SE = 0.0164, t(15) = 2.7344, p = 0.0161). | unexpected negative association between PSD features and engagement, as measured by completion rate (β = −0.0293, SE = 0.0121, t(17) = 02.4142, p = 0.0281) |
-
-<br>
 
 ![166958388-6e38ab88-0219-4e03-9b09-574ce17641e8](https://user-images.githubusercontent.com/102897955/166960848-1c5f8a11-38ae-4f0c-8465-4f8afb59c6ef.png)
 
