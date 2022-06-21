@@ -151,6 +151,17 @@ For me, this study is a good example because they made comprehensible steps and 
 
 <br>
 
+### List of Figures
+
+Fig. 1: Global Trade. (2020, 7. Dezember). How are Digital Banking Facilities Helping During COVID-19 Pandemic? [Wallpaper]. Global Trade. https://www.globaltrademag.com/how-are-digital-banking-facilities-helping-during-covid-19-pandemic/
+
+Fig. 2: mentalis GmbH. (2022). Dashboard of Mentalis Phoenix [Smarphone Screenshot]. mentalis. https://www.mentalis-health.com/programme/
+
+Fig. 3: Teen Lifeline. (2020). Pacifica [Smartphone Screenshot]. Five Mental Health Apps. https://teenlifeline.org/five-mental-health-apps/
+
+
+<br>
+
 ### References
 
 Barnhill, J. W. (2022, 18. April). Overview of Anxiety Disorders. MSD Manual Professional Edition. Retrieved May 5, 2022, from https://www.msdmanuals.com/professional/psychiatric-disorders/anxiety-and-stressor-related-disorders/overview-of-anxiety-disorders
