@@ -196,7 +196,7 @@ Find the meta-analysis of Wu et al., 2021 [here.](https://www.ncbi.nlm.nih.gov/p
 <br> <br>
 Find the study example of Lukas et al., 2021 [here.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8335612/)
 <br> <br>
-Find the study example of Moberg et al., 2019 [here.]([https://www.jmir.org/2019/6/e12556/])
+Find the study example of Moberg et al., 2019 [here.](https://www.jmir.org/2019/6/e12556/)
 <br> <br>
 Find supplementary information of the meta-analysis of Wu et al., 2021 [here.](https://static-content.springer.com/esm/art%3A10.1038%2Fs41746-021-00386-8/MediaObjects/41746_2021_386_MOESM1_ESM.pdf)
 <br> <br>
